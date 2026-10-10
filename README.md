@@ -1,10 +1,10 @@
 # PLAYLIST-MUSIC-Estructura-de-Datos-Circular
 Un trabajo de la materia Estructura de Datos. 
 Hecha por:
-Banda Benítez Angel Alain
-García Suárez Luis Alfonso
-Gayosso Silva Gustavo
-Palomino González Ivan
+Banda Benítez Angel Alain.
+García Suárez Luis Alfonso.
+Gayosso Silva Gustavo.
+Palomino González Ivan.
 
 Versión:
 - Java 17 o posterior (JDK).
